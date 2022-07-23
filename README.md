@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dário</h1>
-<h3 align="center">A Fullstack Developer in Brazil</h3>
+<h3 align="center">A Fullstack Javascript Developer in Brazil</h3>
 
 - 🌱 I’m currently learning **JAVA SpringBoot and Kubernetes**
 
