@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dário</h1>
 <h3 align="center">A Fullstack Javascript Developer in Brazil</h3>
 
-- 🌱 I’m currently learning **JAVA and Kubernetes**
+- 🌱 I’m currently studying about development best practices, unit tests and Devops culture using **Javascript/Typescript, Docker, Kubernetes and Terraform**
+- 📖 Improving English to consume new contents such as articles, documentation and courses
 
 - 📫 How to reach me **dario@softfh.com.br**
 
